@@ -6,14 +6,14 @@
 [preview.webm](https://github.com/user-attachments/assets/41522633-014d-4ef3-8975-2037f828f633)
 
 
-## Project Services
+## Project Features
 ### Booking Appointments
 The app facilitates seamless scheduling and management of medical appointments. Users can book, and cancel appointments with their account through an intuitive and user-friendly interface. The appointment module integrates with the backend to ensure real-time updates.
 
 ### Brain Tumor Diagnosis
 The app incorporates advanced machine learning algorithms for the diagnosis of brain tumors. By analyzing medical images, the app assists patients in identifying and diagnosing brain tumors with high accuracy. This feature leverages state-of-the-art techniques in medical image analysis to provide reliable and timely diagnoses.
 
-## Project Features
+## Project Tools
 ### Kotlin
 Kotlin is a modern, statically typed programming language that runs on the Java Virtual Machine (JVM) and can also be compiled to JavaScript or native code. It is fully interoperable with Java, making it a popular choice for Android development due to its expressive syntax and enhanced safety features.
 
